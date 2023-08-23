@@ -10,12 +10,19 @@ h1 {
     margin: 0px 0px 0px 0px;
     color:rgb(49, 9, 169); font-size: 2rem; vertical-align: text-top;
 }
+#objetivo5 { 
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    text-align: justify; }
+
 h2 {
     color:rgb(58, 11, 198); font-size: 2rem; vertical-align: text-top;
 }
 
 #lista1{
 color:rgb(4, 4, 16);
+
 
 }
 h3, h4 { color:rgb(17, 17, 213); font-size: 2rem; vertical-align: text-top;
@@ -25,13 +32,9 @@ h3, h4 { color:rgb(17, 17, 213); font-size: 2rem; vertical-align: text-top;
     text-align: justify;
 }
 
-#objetivo5 { 
-    width: 700px;
-    height: 500px;
-    padding: 10px;
-    text-align: justify; }
 
-    h5{ color:rgb(4, 4, 16); font-size: small;
+
+h5{ color:rgb(4, 4, 16); font-size: small;
 
 }
 #textosecao1 {color:rgb(4, 4, 16);
@@ -43,12 +46,30 @@ h3, h4 { color:rgb(17, 17, 213); font-size: 2rem; vertical-align: text-top;
 #textosecao3 {color:rgb(4, 4, 16);
     text-align: justify;
 }
+#fotoomnia {width: 500px;
+    height: 300px;
+    padding: 10px;
+    text-align: justify;
+}
+
 #legendafotoomnia {color:rgb(146, 146, 154);
     text-align: justify;
     font-size: small;
+    padding: 0%;
+    margin: 0%;
+}
+
+#fotowaris {width: 500px;
+    height: 300px;
+    padding: 10px;
+    text-align: justify;
+    
 }
 
 #legendafotowaris {color:rgb(146, 146, 154);
     text-align: justify;
     font-size: small;
+    padding: 0%;
+    margin: 0%;
+    
 }
