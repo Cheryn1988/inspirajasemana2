@@ -15,7 +15,7 @@ h2 {
 }
 
 #lista1{
-color:rgb(76, 21, 21);
+color:rgb(4, 4, 16);
 
 }
 h3, h4 { color:rgb(17, 17, 213); font-size: 2rem; vertical-align: text-top;
@@ -42,4 +42,13 @@ h3, h4 { color:rgb(17, 17, 213); font-size: 2rem; vertical-align: text-top;
 }
 #textosecao3 {color:rgb(4, 4, 16);
     text-align: justify;
+}
+#legendafotoomnia {color:rgb(146, 146, 154);
+    text-align: justify;
+    font-size: small;
+}
+
+#legendafotowaris {color:rgb(146, 146, 154);
+    text-align: justify;
+    font-size: small;
 }
